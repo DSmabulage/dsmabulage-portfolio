@@ -1,0 +1,6 @@
+.verticalLine {
+    border-left: thick solid rgb(191, 200, 188);
+    border-left-width: 3px;
+    padding-left: 15px;
+    font-weight: bold;
+}

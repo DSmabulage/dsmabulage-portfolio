@@ -1,0 +1,20 @@
+.introduction{
+    font-size: 50px;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.small-description{
+    font-size: 20px;
+}
+
+.touch-btn{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.name-txt{
+    color: RGB(20, 190, 148);
+    font-weight: bold;
+}
