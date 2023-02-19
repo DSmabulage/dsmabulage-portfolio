@@ -8,6 +8,7 @@
 }
 
 .hello-world{
-    font-size: 50px;
+    font-size: 80px;
     font-weight: bold;
+    color: grey;
 }

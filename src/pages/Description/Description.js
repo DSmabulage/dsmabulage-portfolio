@@ -16,7 +16,10 @@ function Description() {
       <div className="row">
         <div
           className="col-lg-6 col-sm-12 d-flex justify-content-center align-items-center hello-world"
-          style={{ textAlign: "center" }}
+          style={{
+            textAlign: "center",
+            fontFamily: "JetBrains Mono, monospace",
+          }}
         >
           Hello, <br /> World
         </div>
