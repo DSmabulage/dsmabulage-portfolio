@@ -26,7 +26,7 @@ function Description() {
         <div className="col-lg-6 col-sm-12" style={{ textAlign: "center" }}>
           <img
             src={logo}
-            alt="profile-picture"
+            alt="logo"
             className="rounded-circle mb-5"
             style={{ maxWidth: "33%", height: "auto" }}
           />
